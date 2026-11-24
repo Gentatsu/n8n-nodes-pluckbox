@@ -1,0 +1,18 @@
+{
+	"node": "n8n-nodes-pluckbox.pluckbox",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["Data & Storage", "Productivity"],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://github.com/Gentatsu/n8n-nodes-pluckbox#credentials"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://github.com/Gentatsu/n8n-nodes-pluckbox#readme"
+			}
+		]
+	}
+}
