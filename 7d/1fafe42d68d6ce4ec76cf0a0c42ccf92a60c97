@@ -1,0 +1,99 @@
+.agents/credentials.md
+  s_11a0217154b722::t_0020d1e78ddda2 1-115
+.agents/nodes-declarative.md
+  s_11a0217154b722::t_8d261d422f8b89 1-106
+.agents/nodes-programmatic.md
+  s_11a0217154b722::t_865354f93a9d72 1-76
+.agents/nodes.md
+  s_11a0217154b722::t_bf29e4d57a7b5f 1-196
+.agents/properties.md
+  s_11a0217154b722::t_067d9ad361b4c3 1-174
+.agents/versioning.md
+  s_11a0217154b722::t_c53c3bc09d11ad 1-90
+.agents/workflow.md
+  s_11a0217154b722::t_243268638dde95 1-97
+.github/workflows/ci.yml
+  s_11a0217154b722::t_694d8aa8ea2cb3 1-34
+.github/workflows/publish.yml
+  s_11a0217154b722::t_dc0a62a2c45c05 1-99
+.gitignore
+  s_11a0217154b722::t_55de0fccb2bc47 1-2
+.prettierrc.js
+  s_11a0217154b722::t_66ce0528d57699 1-51
+.vscode/launch.json
+  s_11a0217154b722::t_b5a7928baaa28b 1-12
+AGENTS.md
+  s_11a0217154b722::t_0086b13a437cb6 1-104
+CHANGELOG.md
+  s_62b05bb652ed03::t_3d7847c9a7772d 1-5
+CLAUDE.md
+  s_11a0217154b722::t_b8d17c739a8a74 1
+LICENSE.md
+  s_11a0217154b722::t_2239110d65351c 1-21
+README.md
+  s_11a0217154b722::t_9efcafcd580421 1-46
+credentials/PluckboxApi.credentials.ts
+  s_77058e788a6793::t_dff267b2f1bb2b 1-46
+eslint.config.mjs
+  s_11a0217154b722::t_c3c968a6c67ace 1-3
+icons/pluckbox.svg
+  s_a6675371b13353::t_094c15655ec2a6 1
+nodes/Pluckbox/Pluckbox.node.json
+  s_11a0217154b722::t_ad7bdb281023a7 1-18
+nodes/Pluckbox/Pluckbox.node.ts
+  s_11a0217154b722::t_c455e5c9d8e0b0 1-312
+nodes/Pluckbox/getParsers.ts
+  s_77058e788a6793::t_c70da7ba63cb70 1-9
+nodes/PluckboxTrigger/PluckboxTrigger.node.json
+  s_11a0217154b722::t_513c92b0d4d077 1-18
+nodes/PluckboxTrigger/PluckboxTrigger.node.ts
+  s_11a0217154b722::t_b5411b4c20689e 1-145
+package-lock.json
+  s_11a0217154b722::t_b0a65cb707b173 1-10571
+package.json
+  s_11a0217154b722::t_33a15ff6275733 1-61
+test/trigger.mjs
+  s_11a0217154b722::t_35f964dc5b4ae0 1-70
+tsconfig.json
+  s_11a0217154b722::t_8d4b0111367575 1-25
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "7d1fafe42d68d6ce4ec76cf0a0c42ccf92a60c97",
+  "prompts": {},
+  "sessions": {
+    "s_11a0217154b722": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "904490ad-55b2-4340-8b01-501c35a6f89e",
+        "model": "unknown"
+      },
+      "human_author": "Naval Bhandari <navs92@hotmail.com>"
+    },
+    "s_62b05bb652ed03": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "189912f1-4704-436f-8331-cc110ab7d1fa",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Naval Bhandari <navs92@hotmail.com>"
+    },
+    "s_77058e788a6793": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "1654f4fb-b047-4671-af10-c6fe3099af81",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Naval Bhandari <navs92@hotmail.com>"
+    },
+    "s_a6675371b13353": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "50169d66-f729-4d5e-8388-16b1cc5e4c1a",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Naval Bhandari <navs92@hotmail.com>"
+    }
+  }
+}
